@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.orenge
+{
+    color:orangered;
+}
+#large
+{
+    font-size: large;
+}
+.text-grey
+{
+    color: rgb(152, 150, 150);
+}
+.text-decoration
+{
+    text-decoration: none;
+}
+a[
+    text-decoration="none"
+]
